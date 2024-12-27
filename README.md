@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mika020911
+- 👋 Hi, I’m Eddys
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, GDscript
 - 💞️ I’m looking to collaborate on a projetc développement 
 - 📫 How to reach me mikaeddys@gmail.com
 - 😄 Pronouns: Eddys
