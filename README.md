@@ -3,51 +3,8 @@
 </h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="900">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ0djhkeG1ybWZuNmQzMGVqbG8ycXd0MTRsYTRsd2wybDM2NWw5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="900">
 </p>
-
----
-
-# 👨‍💻 À propos de moi
-
-```java
-class EddysMichael{
-
-    String location = "Madagascar 🇲🇬";
-
-    String school = "ENI Fianarantsoa";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "Python",
-        "C",
-        "C++",
-        "PHP"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "Node.js",
-        "Express",
-        "FastAPI"
-    };
-
-    String[] frontend = {
-        "React",
-        "TailwindCSS"
-    };
-
-    String[] databases = {
-        "PostgreSQL",
-        "MySQL",
-        "SQLite",
-        "MongoDB",
-        "Supabase"
-    };
-
-}
-```
 
 ---
 
@@ -128,18 +85,6 @@ class EddysMichael{
 <img src="https://github-profile-trophy.vercel.app/?username=mika020911&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
-
----
-
-# 🚀 Mes projets
-
-| Projet | Technologies |
-|---------|--------------|
-| 📚 Gestion QCM | JSP • Servlet • MySQL |
-| 🤖 Chatbot Messenger IA | Django • Python • PostgreSQL |
-| 🛒 E-commerce | React • Node.js • PostgreSQL |
-| 📱 Mobile | React Native |
-| ✍️ Reconnaissance manuscrite | Python • IA |
 
 ---
 
