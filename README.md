@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Salut+👋,+je+suis+Eddys+Michael;Développeur+Full+Stack;Java+•+Spring+•+React+•+Node.js;Python+•+FastAPI+•+Docker;Toujours+en+train+d'apprendre+🚀"/>
 </h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ0djhkeG1ybWZuNmQzMGVqbG8ycXd0MTRsYTRsd2wybDM2NWw5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="900">
-</p>
 
 ---
 
