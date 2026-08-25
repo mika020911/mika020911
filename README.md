@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<img src="http://github-readme-activity-graph-c7qj53ysc-eddys.vercel.app"/>
+<img src="http://github-readme-activity-graph-c7qj53ysc-eddys.vercel.app](https://github-readme-activity-graph-smoky-theta.vercel.app/"/>
 
 </p>
 
