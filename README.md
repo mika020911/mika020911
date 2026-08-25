@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/mka020911">
+<a href="https://github.com/mika020911">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
