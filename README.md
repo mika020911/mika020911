@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mika020911&theme=tokyo-night&hide_border=true"/>
+<img src="http://github-readme-activity-graph-c7qj53ysc-eddys.vercel.app"/>
 
 </p>
 
