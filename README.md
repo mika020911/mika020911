@@ -33,19 +33,18 @@
 
 ---
 
-# 🔥 GitHub Streak
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mika020911&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mika020911&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mika020911&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
+## 🔥 GitHub Streak
 
-# 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-eddys.vercel.app/api?username=mika020911&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=mika020911&theme=tokyonight"/>
 </p>
 
 ---
