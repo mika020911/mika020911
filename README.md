@@ -7,9 +7,9 @@ My main interests include:
 
 💻 Web & Full-Stack Development with JavaScript, TypeScript, React, Next.js and Node.js
 
-☕ Backend Development with Java, Spring Boot, Node.js and REST APIs
+☕ Backend Development with Java, Spring Boot, Node.js, Python and REST APIs
 
-📱 Mobile Development with React Native & Expo
+📱 Mobile Development with Flutter
 
 🤖 Artificial Intelligence and AI-powered applications
 
