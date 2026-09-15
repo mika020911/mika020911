@@ -1,6 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Salut+👋,+je+suis+Eddys+Michael;Développeur+Full+Stack;Java+•+Spring+•+React+•+Node.js;Python+•+FastAPI+•+Docker;Toujours+en+train+d'apprendre+🚀"/>
-</h1>
+<p>
+  🚀 About Me
+
+I'm a Computer Science student passionate about Web Development, Software Engineering, and Artificial Intelligence.
+
+My main interests include:
+
+💻 Web & Full-Stack Development with JavaScript, TypeScript, React, Next.js and Node.js
+
+☕ Backend Development with Java, Spring Boot, Node.js and REST APIs
+
+📱 Mobile Development with React Native & Expo
+
+🤖 Artificial Intelligence and AI-powered applications
+
+🗄️ Databases & Data with PostgreSQL and MySQL
+
+🐳 DevOps & Development Tools with Git, GitHub and Docker
+
+🔄 Currently improving my skills in TypeScript, NestJS, Docker and AI integration
+
+🚀 I enjoy turning ideas into real-world applications and continuously learning new technologies.
+
+I'm always looking for opportunities to build, experiment, collaborate, and grow as a software developer.
+</p>
 
 
 ---
